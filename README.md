@@ -1,2 +1,3 @@
-# 1
-Coursera HTML Course
+# Just a readme
+
+Module 2 Solution is inside folder
