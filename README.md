@@ -1,3 +1,1 @@
-# Just a readme
-
-Module 2 Solution is inside folder
+Week 3 Assignment
